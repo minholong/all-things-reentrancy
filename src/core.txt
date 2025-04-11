@@ -1,1 +1,2 @@
 Workshop about the different types of reentrancy attacks
+# keep defaults in sync with the manifest
