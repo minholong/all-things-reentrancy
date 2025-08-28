@@ -24,3 +24,4 @@ Notes and usage details for all-things-reentrancy.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
