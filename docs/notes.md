@@ -28,3 +28,4 @@ Notes and usage details for all-things-reentrancy.
 - add a note about the defaults
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
