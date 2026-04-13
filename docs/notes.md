@@ -69,3 +69,4 @@ Notes and usage details for all-things-reentrancy.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
